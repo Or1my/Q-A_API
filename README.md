@@ -42,7 +42,7 @@ FastAPI-сервис для вопросов и ответов с PostgreSQL в 
 1. Клонируй репозиторий:
 ```bash
 git clone <url-репозитория>
-cd qa_api
+cd Q-A_API
 ```
 
 2. Запускаем Docker
